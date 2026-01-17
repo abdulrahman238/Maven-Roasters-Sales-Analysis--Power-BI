@@ -81,6 +81,6 @@ Allocate more staff on Fridays, run seasonal promotions in Jan–Feb, and launch
 ---
 
 ## Dashboard Preview
-![Overview](images/overview_page.png)
-![Location Analysis](images/location_analysis.png](https://github.com/abdulrahman238/Maven-Roasters-Sales-Analysis/blob/37eb8a2f0fbac88feb023380e4411e1076e08e50/lcation%20analysis.png))
-![Product Analysis](images/product_analysis.png)
+![IMAGE alt](images/overview_page.png)
+![IMAGE alt](https://github.com/abdulrahman238/Maven-Roasters-Sales-Analysis/blob/37eb8a2f0fbac88feb023380e4411e1076e08e50/lcation%20analysis.png))
+![IMAGE alt](images/product_analysis.png)
