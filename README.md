@@ -24,7 +24,7 @@ A **Star Schema** was created to improve performance and clarity.
 - Store
 - Product
 
-![Star Schema](data_model/star_schema.png)
+![Star Schema](https://github.com/abdulrahman238/Maven-Roasters-Sales-Analysis--Power-BI/blob/df150cc253cddd5d34ae1b0370ba94c72b92d722/star%20modelling.png)
 
 ---
 
